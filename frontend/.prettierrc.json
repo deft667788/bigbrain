@@ -1,0 +1,5 @@
+{
+  "singleQuote":true,
+  "spaceBeforeFunctionParen":true,
+  "multiline-ternary": ["error", "nerver"]
+}
